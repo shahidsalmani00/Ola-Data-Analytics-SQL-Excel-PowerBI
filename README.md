@@ -124,9 +124,7 @@ Ola-Data-Analytics-SQL-Excel-PowerBI/
 │   └── ola_dashboard.pbix
 │
 ├── Screenshots/
-│   └── dashboard_overview.png
-│
-└── README.md
+    └── dashboard_overview.png
 ```
 
 *Update the filenames and folders to match the files actually included in your repository.*
